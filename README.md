@@ -30,9 +30,8 @@ I created this repository to save all my solutions for those problems. Feel free
 - VSCode
 
 [cs50p_material]: https://cs50.harvard.edu/python/
-
 [pset0_1]: ./Week_0/indoor/
-[pset0_2]: ./Week_0/playback
-[pset0_3]: ./Week_0/faces
-[pset0_4]: ./Week_0/einstein
-[pset0_5]: ./Week_0/tip
+[pset0_2]: ./Week_0/playback/
+[pset0_3]: ./Week_0/faces/
+[pset0_4]: ./Week_0/einstein/
+[pset0_5]: ./Week_0/tip/
