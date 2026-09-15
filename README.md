@@ -25,13 +25,28 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Einstein][pset0_4]
 - [Tip Calculator][pset0_5]
 
+### Week 1 \- Conditionals : Problem Set 1
+
+- [Deep Thought][pset1_1]
+- [Home Federal Savings Bank][pset1_2]
+- [File Extensions][pset1_3]
+- [Math Interpreter][pset1_4]
+- [Meal Time][pset1_5]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
 
 [cs50p_material]: https://cs50.harvard.edu/python/
+
 [pset0_1]: ./Week_0/indoor/
 [pset0_2]: ./Week_0/playback/
 [pset0_3]: ./Week_0/faces/
 [pset0_4]: ./Week_0/einstein/
 [pset0_5]: ./Week_0/tip/
+
+[pset1_1]: ./Week_1/deep/
+[pset1_2]: ./Week_1/bank/
+[pset1_3]: ./Week_1/extensions/
+[pset1_4]: ./Week_1/interpreter/
+[pset1_5]: ./Week_1/meal/
