@@ -54,25 +54,25 @@ I created this repository to save all my solutions for those problems. Feel free
 
 [cs50p_material]: https://cs50.harvard.edu/python/
 
-[pset0_1]: ./Week_0/indoor/
-[pset0_2]: ./Week_0/playback/
-[pset0_3]: ./Week_0/faces/
-[pset0_4]: ./Week_0/einstein/
-[pset0_5]: ./Week_0/tip/
+[pset0_1]: ./week_0/indoor/
+[pset0_2]: ./week_0/playback/
+[pset0_3]: ./week_0/faces/
+[pset0_4]: ./week_0/einstein/
+[pset0_5]: ./week_0/tip/
 
-[pset1_1]: ./Week_1/deep/
-[pset1_2]: ./Week_1/bank/
-[pset1_3]: ./Week_1/extensions/
-[pset1_4]: ./Week_1/interpreter/
-[pset1_5]: ./Week_1/meal/
+[pset1_1]: ./week_1/deep/
+[pset1_2]: ./week_1/bank/
+[pset1_3]: ./week_1/extensions/
+[pset1_4]: ./week_1/interpreter/
+[pset1_5]: ./week_1/meal/
 
-[pset2_1]: ./Week_2/camel/
-[pset2_2]: ./Week_2/coke/
-[pset2_3]: ./Week_2/twttr/
-[pset2_4]: ./Week_2/plates/
-[pset2_5]: ./Week_2/nutrition/
+[pset2_1]: ./week_2/camel/
+[pset2_2]: ./week_2/coke/
+[pset2_3]: ./week_2/twttr/
+[pset2_4]: ./week_2/plates/
+[pset2_5]: ./week_2/nutrition/
 
-[pset3_1]: ./Week_3/fuel/
-[pset3_2]: ./Week_2/taqueria/
-[pset3_3]: ./Week_2/grocery/
-[pset3_4]: ./Week_2/outdated/
+[pset3_1]: ./week_3/fuel/
+[pset3_2]: ./week_3/taqueria/
+[pset3_3]: ./week_3/grocery/
+[pset3_4]: ./week_3/outdated/
