@@ -41,6 +41,13 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Vanity Plates][pset2_4]
 - [Nutrition Facts][pset2_5]
 
+### Week 3 \- Exceptions : Problem Set 3
+
+- [Fuel Gauge][pset3_1]
+- [Felipe's Taqueria][pset3_2]
+- [Grocery List][pset3_3]
+- [Outdated][pset3_4]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -64,3 +71,8 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset2_3]: ./Week_2/twttr/
 [pset2_4]: ./Week_2/plates/
 [pset2_5]: ./Week_2/nutrition/
+
+[pset3_1]: ./Week_3/fuel/
+[pset3_2]: ./Week_2/taqueria/
+[pset3_3]: ./Week_2/grocery/
+[pset3_4]: ./Week_2/outdated/
