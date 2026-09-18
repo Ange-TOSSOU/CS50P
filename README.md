@@ -33,6 +33,14 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Math Interpreter][pset1_4]
 - [Meal Time][pset1_5]
 
+### Week 2 \- Loops : Problem Set 2
+
+- [camelCase][pset2_1]
+- [Coke Machine][pset2_2]
+- [Just setting up my twttr][pset2_3]
+- [Vanity Plates][pset2_4]
+- [Nutrition Facts][pset2_5]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -50,3 +58,9 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset1_3]: ./Week_1/extensions/
 [pset1_4]: ./Week_1/interpreter/
 [pset1_5]: ./Week_1/meal/
+
+[pset2_1]: ./Week_2/camel/
+[pset2_2]: ./Week_2/coke/
+[pset2_3]: ./Week_2/twttr/
+[pset2_4]: ./Week_2/plates/
+[pset2_5]: ./Week_2/nutrition/
