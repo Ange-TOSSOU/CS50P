@@ -5,18 +5,18 @@ expression = input("Expression: ")
 expression = expression.strip()
 
 # Extract the operands and the operator from the expression.
-x, op, y = expression.split(' ')
+x, op, y = expression.split(" ")
 
 # Convert operands to float.
 x = float(x)
 y = float(y)
 
 # Output the result of the expression.
-if op == '+':
+if op == "+":
     print(x + y)
-elif op == '-':
+elif op == "-":
     print(x - y)
-elif op == '*':
+elif op == "*":
     print(x * y)
-elif op == '/':
+elif op == "/":
     print(x / y)

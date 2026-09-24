@@ -23,15 +23,15 @@ def convert(time):
     elif time.endswith("p.m."):
         add_hours = True
         time = time.removesuffix("p.m.").strip()
-    
+
     # Extract the hour and the minute.
-    hour, minute = time.split(':')
+    hour, minute = time.split(":")
 
     # Convert hour and time in hours.
     hour_in_hours = float(hour)
     if add_hours and hour_in_hours != 12:
         hour_in_hours = hour_in_hours + 12
-    
+
     minute_in_hours = float(minute) / 60
 
     # Return the time in seconds.

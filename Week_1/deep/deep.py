@@ -1,5 +1,7 @@
 # Get the user's answer.
-answer = input("What is the Answer to the Great Question of Life, the Universe, and Everything? ")
+answer = input(
+    "What is the Answer to the Great Question of Life, the Universe, and Everything? "
+)
 
 # Format the answer.
 ans = answer.strip().lower()
