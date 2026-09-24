@@ -10,7 +10,7 @@ MONTHS = [
     "September",
     "October",
     "November",
-    "December"
+    "December",
 ]
 
 
@@ -34,7 +34,7 @@ def main():
         # Extract parts of the date : day, month and year.
         if is_first_format:
             try:
-                month, day, year = date.split('/')
+                month, day, year = date.split("/")
             except ValueError:
                 continue
 
@@ -43,12 +43,12 @@ def main():
             except ValueError:
                 continue
         else:
-            if date.count(',') != 1:
+            if date.count(",") != 1:
                 continue
-            
-            date = date.replace(',', '')
+
+            date = date.replace(",", "")
             try:
-                month, day, year = date.split(' ')
+                month, day, year = date.split(" ")
             except ValueError:
                 continue
 

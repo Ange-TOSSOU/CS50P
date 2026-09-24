@@ -3,7 +3,7 @@ distances = {
     "Voyager 2": "136",
     "Pioneer 10": "80 AU",
     "New Horizons": "58",
-    "Pioneer 11": "44 AU"
+    "Pioneer 11": "44 AU",
 }
 
 
@@ -18,7 +18,7 @@ def main():
     except ValueError:
         print(f"Can't convert '{distances[spacecraft]}' to a float")
         return
-    
+
     m = convert(au)
     print(f"{m} m away")
 

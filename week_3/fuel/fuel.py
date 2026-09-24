@@ -5,7 +5,7 @@ def main():
 
         # Extract parts of the fraction.
         try:
-            x, y = fraction.split('/')
+            x, y = fraction.split("/")
         except ValueError:
             continue
 
@@ -38,9 +38,9 @@ def main():
     gauge_level *= 100
 
     if gauge_level <= 1:
-        print('E')
+        print("E")
     elif gauge_level >= 99:
-        print('F')
+        print("F")
     else:
         print(f"{gauge_level:.0f}%")
 
