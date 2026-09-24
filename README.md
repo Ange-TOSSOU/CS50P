@@ -48,6 +48,15 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Grocery List][pset3_3]
 - [Outdated][pset3_4]
 
+### Week 4 \- Libraries : Problem Set 4
+
+- [Emojize][pset4_1]
+- [Frank, Ian and Glen's Letters][pset4_2]
+- [Adieu, Adieu][pset4_3]
+- [Guessing Game][pset4_4]
+- [Little Professor][pset4_5]
+- [Bitcoin Price Index][pset4_6]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -76,3 +85,10 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset3_2]: ./week_3/taqueria/
 [pset3_3]: ./week_3/grocery/
 [pset3_4]: ./week_3/outdated/
+
+[pset4_1]: ./week_4/emojize/
+[pset4_2]: ./week_4/figlet/
+[pset4_3]: ./week_4/adieu/
+[pset4_4]: ./week_4/game/
+[pset4_5]: ./week_4/professor/
+[pset4_6]: ./week_4/bitcoin/
