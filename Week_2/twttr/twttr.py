@@ -15,7 +15,7 @@ def main():
 
 
 def is_vowel(character):
-    vowels = ['a', 'e', 'i', 'o', 'u']
+    vowels = ["a", "e", "i", "o", "u"]
 
     character = str(character).lower()
 

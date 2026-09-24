@@ -3,7 +3,7 @@ distances = {
     "Voyager 2": 136,
     "Pioneer 10": 80,
     "New Horizons": 58,
-    "Pioneer 11": 44
+    "Pioneer 11": 44,
 }
 
 

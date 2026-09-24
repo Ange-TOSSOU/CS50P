@@ -11,7 +11,7 @@ def main():
             history.clear()
         else:
             history.append(action)
-        
+
         print(history)
 
 

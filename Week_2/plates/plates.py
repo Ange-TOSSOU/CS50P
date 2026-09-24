@@ -28,7 +28,7 @@ def is_valid(s):
 def starts_with_two_letters(s):
     if len(s) < 2:
         return False
-    
+
     first_two_characters = s[:2]
 
     return first_two_characters.isalpha()
@@ -42,8 +42,26 @@ def number_of_alphanum_characters(s):
 
     return num
 
+
 def contains_punctuation_marks(s):
-    punctuation_marks = ['.', '?', '!', ',', ':', ';', '\'', '"', '(', ')', '-', '[', ']', '/', '{', '}']
+    punctuation_marks = [
+        ".",
+        "?",
+        "!",
+        ",",
+        ":",
+        ";",
+        "'",
+        '"',
+        "(",
+        ")",
+        "-",
+        "[",
+        "]",
+        "/",
+        "{",
+        "}",
+    ]
 
     for pm in punctuation_marks:
         if pm in s:
@@ -59,10 +77,11 @@ def contains_white_spaces(s):
 
     return False
 
+
 def no_number_in_the_middle(s):
     if contains_no_decimal(s):
         return True
-    
+
     # Find the index of the first number.
     index = 0
     for c in s:
@@ -74,7 +93,7 @@ def no_number_in_the_middle(s):
     # Check the decimal found is not zero.
     if int(s[index]) == 0:
         return False
-    
+
     # Check every character after is decimal.
     return s[index:].isdecimal()
 
@@ -85,5 +104,6 @@ def contains_no_decimal(s):
             return False
 
     return True
+
 
 main()
