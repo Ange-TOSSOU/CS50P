@@ -60,6 +60,7 @@ I created this repository to save all my solutions for those problems. Feel free
 ## Languages - Technologies - Tools - and more
 
 - VSCode
+- PEP 8
 
 [cs50p_material]: https://cs50.harvard.edu/python/
 
