@@ -57,6 +57,13 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Little Professor][pset4_5]
 - [Bitcoin Price Index][pset4_6]
 
+### Week 5 \- Unit Tests : Problem Set 5
+
+- [Testing my twttr][pset5_1]
+- [Back to the Bank][pset5_2]
+- [Re-requesting a Vanity Plate][pset5_3]
+- [Refueling][pset5_4]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -93,3 +100,8 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset4_4]: ./week_4/game/
 [pset4_5]: ./week_4/professor/
 [pset4_6]: ./week_4/bitcoin/
+
+[pset5_1]: ./week_5/test_twttr/
+[pset5_2]: ./week_5/test_bank/
+[pset5_3]: ./week_5/test_plates/
+[pset5_4]: ./week_5/test_fuel/
