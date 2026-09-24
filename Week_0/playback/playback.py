@@ -2,4 +2,4 @@
 user_input = input()
 
 # Replace each space in the user input by "..."
-print(user_input.replace(' ', "..."))
+print(user_input.replace(" ", "..."))
