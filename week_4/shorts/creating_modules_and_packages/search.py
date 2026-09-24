@@ -9,7 +9,7 @@ def main():
         print(f"* {artwork}")
 
     print()
-    
+
     artist = input("Artist: ")
     artists = get_artists(query=artist, limit=3)
     for artist in artists:
