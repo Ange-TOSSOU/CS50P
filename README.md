@@ -64,6 +64,13 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Re-requesting a Vanity Plate][pset5_3]
 - [Refueling][pset5_4]
 
+### Week 6 \- File I/O : Problem Set 6
+
+- [Lines of Code][pset6_1]
+- [Pizza Py][pset6_2]
+- [Scourgify][pset6_3]
+- [CS50 P-Shirt][pset6_4]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -105,3 +112,8 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset5_2]: ./week_5/test_bank/
 [pset5_3]: ./week_5/test_plates/
 [pset5_4]: ./week_5/test_fuel/
+
+[pset6_1]: ./week_6/lines/
+[pset6_2]: ./week_6/pizza/
+[pset6_3]: ./week_6/scourgify/
+[pset6_4]: ./week_6/shirt/
