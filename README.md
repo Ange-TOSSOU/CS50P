@@ -71,6 +71,14 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Scourgify][pset6_3]
 - [CS50 P-Shirt][pset6_4]
 
+### Week 7 \- Regular Expressions : Problem Set 7
+
+- [NUMB3RS][pset7_1]
+- [Watch on YouTube][pset7_2]
+- [Working 9 to 5][pset7_3]
+- [Regular, um, Expressions][pset7_4]
+- [Response Validation][pset7_5]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -117,3 +125,9 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset6_2]: ./week_6/pizza/
 [pset6_3]: ./week_6/scourgify/
 [pset6_4]: ./week_6/shirt/
+
+[pset7_1]: ./week_7/numb3rs/
+[pset7_2]: ./week_7/watch/
+[pset7_3]: ./week_7/working/
+[pset7_4]: ./week_7/um/
+[pset7_4]: ./week_7/response/
