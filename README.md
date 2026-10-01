@@ -79,6 +79,12 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Regular, um, Expressions][pset7_4]
 - [Response Validation][pset7_5]
 
+### Week 8 \- Oject-Oriented Programming : Problem Set 8
+
+- [Seasons of love][pset8_1]
+- [Cookie Jar][pset8_2]
+- [CS50 Shirtificate][pset8_3]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -131,3 +137,7 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset7_3]: ./week_7/working/
 [pset7_4]: ./week_7/um/
 [pset7_5]: ./week_7/response/
+
+[pset8_1]: ./week_8/seasons/
+[pset8_2]: ./week_8/jar/
+[pset8_3]: ./week_8/shirtificate/
