@@ -90,6 +90,27 @@ I created this repository to save all my solutions for those problems. Feel free
 - VSCode
 - PEP 8
 
+## Libraries
+- random
+- statistics
+- cowsay
+- requests
+- emoji
+- pyfiglet
+- pytest
+- csv
+- PIL
+- tabulate
+- pillow
+- re
+- validator-collection
+- validators
+- fpdf2
+- mypy
+- argparse
+- inflect
+- pyttsx3
+
 [cs50p_material]: https://cs50.harvard.edu/python/
 
 [pset0_1]: ./Week_0/indoor/
