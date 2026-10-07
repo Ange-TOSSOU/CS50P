@@ -85,6 +85,10 @@ I created this repository to save all my solutions for those problems. Feel free
 - [Cookie Jar][pset8_2]
 - [CS50 Shirtificate][pset8_3]
 
+### Week 9 \- Et Cetera : Final Project
+
+- [Unit Converter][pset9]
+
 ## Languages - Technologies - Tools - and more
 
 - VSCode
@@ -110,6 +114,8 @@ I created this repository to save all my solutions for those problems. Feel free
 - argparse
 - inflect
 - pyttsx3
+
+## Final Project
 
 [cs50p_material]: https://cs50.harvard.edu/python/
 
@@ -162,3 +168,5 @@ I created this repository to save all my solutions for those problems. Feel free
 [pset8_1]: ./week_8/seasons/
 [pset8_2]: ./week_8/jar/
 [pset8_3]: ./week_8/shirtificate/
+
+[pset9]: ./week_9/final_project/
