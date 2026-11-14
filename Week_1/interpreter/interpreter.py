@@ -13,10 +13,10 @@ y = int(y)
 
 # Output the result of the expression.
 if op == "+":
-    print(x + y)
+    print(f"{x + y:.1f}")
 elif op == "-":
-    print(x - y)
+    print(f"{x - y:.1f}")
 elif op == "*":
-    print(x * y)
+    print(f"{x * y:.1f}")
 elif op == "/":
-    print(x / y)
+    print(f"{x / y:.1f}")
