@@ -7,9 +7,9 @@ expression = expression.strip()
 # Extract the operands and the operator from the expression.
 x, op, y = expression.split(" ")
 
-# Convert operands to float.
-x = float(x)
-y = float(y)
+# Convert operands to int.
+x = int(x)
+y = int(y)
 
 # Output the result of the expression.
 if op == "+":
